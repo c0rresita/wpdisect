@@ -20,7 +20,7 @@ python3 wpdisect.py<br>
   
 ## Usage
 
-'''python3 wpdisect.py'''
+```python3 wpdisect.py```
 
 
 
