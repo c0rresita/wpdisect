@@ -27,7 +27,7 @@ banner = f"""
 
 # Target to scan
 
-target = ""
+target = input("[+] Put the Target: ")
 
 # wpdisect current directory
 
