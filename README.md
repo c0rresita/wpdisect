@@ -10,7 +10,7 @@ https://wordpress.org/latest.zip
 
 ## Installation
 
-git clone https://github.com/gotr00t0day/wpdisect<br>
+git clone https://github.com/c0rresita/wpdisect<br>
 
 cd wpdisect<br>
 
@@ -19,8 +19,8 @@ pip3 install -r requirements.txt<br>
 python3 wpdisect.py<br>
   
 ## Usage
-  
-edit wpdisect.py and modify the target = "" variable and add your target
+
+'''python3 wpdisect.py'''
 
 
 
