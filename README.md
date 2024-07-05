@@ -15,9 +15,7 @@ git clone https://github.com/c0rresita/wpdisect<br>
 cd wpdisect<br>
 
 pip3 install -r requirements.txt<br>
-
-python3 wpdisect.py<br>
-  
+<br>
 ## Usage
 
 ```python3 wpdisect.py```
